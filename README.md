@@ -26,7 +26,10 @@
   It is developed by OpenAI, i.e. the same company that created ChatGPT, so presumably the generated code can have the same level of successes as errors.
   It can be installed in JetBrains IDEs, Neovim, Visual Studio and Visual Studio Code. CoPilot is a paid service.
   
-* [codeium - https://codeium.com](https://codeium.com) [FREE]
+* [codeium - https://codeium.com](https://codeium.com) [FREE] 
+  Chat is integrated into your IDE. Integrates with the most common IDEs and editors, such as Visual Studio Code, JetBrains, PyCharm, XCode, Android Studio and many more. It has an extension for Google Chrome (works also in Opera) to be used in online editors.
+  Generates code for more than 70 languages based on your information. In my tests using C language it has not been very accurate.
+
 
 * [bito.ai - https://bito.ai](https://bito.ai) [FREE]
 
