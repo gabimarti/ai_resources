@@ -1,6 +1,6 @@
 # AI Resources
 
-## AI Sitelist 
+## AI Online Sitelist 
 
 * [ChatGPT - chat.openai.com](chat.openai.com)
   The first chat site with Artificial Intelligence that was widely and massively released to the world.
@@ -14,6 +14,8 @@
 
 
 * [YOU.com - https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
+You.com Chat is an online communication system that uses artificial intelligence to provide accurate and helpful answers to users' questions. It can help users find information by performing related searches on the web to solve problems. It is able to generate answers to code-related questions by creating code examples presented in text format. 
 
 
+## AI Developer Tools
 
