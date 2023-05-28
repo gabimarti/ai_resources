@@ -2,5 +2,5 @@
 
 ## AI Sitelist 
 
-* ChatGPT chat.openai.com
+* [ChatGPT - chat.openai.com](chat.openai.com)
 * 
