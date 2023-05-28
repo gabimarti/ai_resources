@@ -21,12 +21,14 @@
 
 ## AI Developer Tools
 
-* [GitHub Copilot - https://github.com/features/copilot](https://github.com/features/copilot)
+* [GitHub Copilot - https://github.com/features/copilot](https://github.com/features/copilot) [PAID]
   GitHub Copilot uses the OpenAI Codex to suggest code and entire functions in real-time, right from your editor.
   It is developed by OpenAI, i.e. the same company that created ChatGPT, so presumably the generated code can have the same level of successes as errors.
   It can be installed in JetBrains IDEs, Neovim, Visual Studio and Visual Studio Code. CoPilot is a paid service.
   
-* [codeium - https://codeium.com](https://codeium.com)
+* [codeium - https://codeium.com](https://codeium.com) [FREE]
 
-* [bito.ai - https://bito.ai](https://bito.ai) 
+* [bito.ai - https://bito.ai](https://bito.ai) [FREE]
+
+
 * 
