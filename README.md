@@ -14,6 +14,9 @@
 * [YOU.com - https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat](https://you.com/search?q=who+are+you&fromSearchBar=true&tbm=youchat)
   You.com Chat is an online communication system that uses artificial intelligence to provide accurate and helpful answers to users' questions. It can help users find information by performing related searches on the web to solve problems. It is able to generate answers to code-related questions by creating code examples presented in text format. For programming tasks it is similar to ChatGPT but also offers web search results. 
 
+* [Bing Chat - https://www.bing.com](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx)
+  Only works in Microsoft Edge browser. It is similar to the You search engine. When you ask it questions it searches the web to provide the answers, although in the case of programming related answers it is not as accurate as You.
+
 * [Pi - https://heypi.com/talk](https://heypi.com/talk)
   Pi, is developed by Inflection AI. It is a conversational application based on an artificial intelligence model. It is able to converse with users on a wide variety of topics and interact in a natural way. For programming tasks it is not as direct and efficient as ChatGPT or You.com Chat, as it asks a lot of questions following a conversation, giving a line to follow without offering concrete code samples.
 
