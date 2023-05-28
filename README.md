@@ -32,7 +32,7 @@
 
 
 * [bito.ai - https://bito.ai](https://bito.ai) [FREE]
-  It is based on ChatGPT-4. It has a chat that integrates into Chrome (also in Opera) where it generates code in a window. It is more versatile (for my taste) than Codeium when used as a browser extension. It integrates in different IDEs of the JetBrains family and in Visual Studio Code. It has the ability to explain what a code that is provided or that we have selected within the editor does.
+  It is based on ChatGPT-4. It has a chat that integrates into Chrome (also in Opera) where it generates code in a window. It is more versatile (for my taste) than Codeium when used as a browser extension. It integrates in different IDEs of the JetBrains family and in Visual Studio Code. It has the ability to explain what a code that is provided or that we have selected within the editor does. Incorporates CLI integration.
 
 
 
