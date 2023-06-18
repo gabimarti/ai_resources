@@ -40,9 +40,13 @@
 * [Tabnine - https://www.tabnine.com](https://www.tabnine.com) [FREE 1 user]
   A code completion plugin that uses AI models to provide intelligent suggestions as you type, supporting multiple programming languages.
 
-
+* [Microsoft Intellicode - https://visualstudio.microsoft.com/es/services/intellicode](https://visualstudio.microsoft.com/es/services/intellicode/) [FREE]
+  A plugin that uses machine learning to provide smart code completion suggestions based on patterns and conventions in your codebase.
 
 ## AI Developer Security & Clean code Tools
+
+* [Amazon CodeGuru - https://aws.amazon.com/es/codeguru/](https://aws.amazon.com/es/codeguru/) [PAID]
+  A machine learning-based service that integrates with popular IDEs to provide automated code reviews, identifying issues and recommending optimizations.
 
 * [snyk Security Code - https://snyk.io](https://snyk.io) [FREE / PAID]
   A plugin that uses AI to analyze your code for potential bugs, vulnerabilities, and performance issues, providing suggestions for improvements.
