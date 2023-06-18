@@ -37,5 +37,13 @@
 * [bito.ai - https://bito.ai](https://bito.ai) [FREE]
   It is based on ChatGPT-4. It has a chat that integrates into Chrome (also in Opera) where it generates code in a window. It is more versatile (for my taste) than Codeium when used as a browser extension. It integrates in different IDEs of the JetBrains family and in Visual Studio Code. It has the ability to explain what a code that is provided or that we have selected within the editor does. Incorporates CLI integration.
 
+* [Tabnine - https://www.tabnine.com](https://www.tabnine.com) [FREE 1 user]
+  A code completion plugin that uses AI models to provide intelligent suggestions as you type, supporting multiple programming languages.
 
+* [snyk Security Code - https://snyk.io](https://snyk.io) [FREE / PAID]
+  A plugin that uses AI to analyze your code for potential bugs, vulnerabilities, and performance issues, providing suggestions for improvements.
+
+* [sonarlint - https://www.sonarsource.com/products/sonarlint/](https://www.sonarsource.com/products/sonarlint/) [FREE]
+  SonarLint is a static code analysis tool that helps developers identify and fix code quality and security issues in their software. It integrates with popular integrated development environments (IDEs) to provide real-time feedback and recommendations for improving code during the development process.
+  
 
