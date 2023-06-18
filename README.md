@@ -2,6 +2,11 @@
 
 AI Resources, mainly for developers.
 
+## AI Recopilation Sites
+
+* [Future Tools - https://www.futuretools.io](https://www.futuretools.io)
+* 
+
 ## AI Chat systems Sitelist 
 
 * [ChatGPT - chat.openai.com](chat.openai.com)
