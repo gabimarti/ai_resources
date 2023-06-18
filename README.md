@@ -1,5 +1,7 @@
 # AI Resources
 
+AI Resources, mainly for developers.
+
 ## AI Chat systems Sitelist 
 
 * [ChatGPT - chat.openai.com](chat.openai.com)
