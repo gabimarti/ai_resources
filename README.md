@@ -2,10 +2,17 @@
 
 AI Resources, mainly for developers.
 
+
+
 ## AI Recopilation Sites
 
 * [Future Tools - https://www.futuretools.io](https://www.futuretools.io)
-* 
+  FutureTools Collects & Organizes All The Best AI Tools So YOU Too Can Become Superhuman!
+  
+* [OpenTools - https://opentools.ai](https://opentools.ai)
+  Chat with our GPT to find the right AI tool for you.
+
+  
 
 ## AI Chat systems Sitelist 
 
@@ -50,6 +57,8 @@ AI Resources, mainly for developers.
 * [Microsoft Intellicode - https://visualstudio.microsoft.com/es/services/intellicode](https://visualstudio.microsoft.com/es/services/intellicode/) [FREE]
   A plugin that uses machine learning to provide smart code completion suggestions based on patterns and conventions in your codebase.
 
+
+
 ## AI Developer Security & Clean code Tools
 
 * [Amazon CodeGuru - https://aws.amazon.com/es/codeguru/](https://aws.amazon.com/es/codeguru/) [PAID]
@@ -61,4 +70,5 @@ AI Resources, mainly for developers.
 * [sonarlint - https://www.sonarsource.com/products/sonarlint/](https://www.sonarsource.com/products/sonarlint/) [FREE]
   SonarLint is a static code analysis tool that helps developers identify and fix code quality and security issues in their software. It integrates with popular integrated development environments (IDEs) to provide real-time feedback and recommendations for improving code during the development process.
   
+
 
