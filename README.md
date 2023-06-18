@@ -40,6 +40,10 @@
 * [Tabnine - https://www.tabnine.com](https://www.tabnine.com) [FREE 1 user]
   A code completion plugin that uses AI models to provide intelligent suggestions as you type, supporting multiple programming languages.
 
+
+
+## AI Developer Security & Clean code Tools
+
 * [snyk Security Code - https://snyk.io](https://snyk.io) [FREE / PAID]
   A plugin that uses AI to analyze your code for potential bugs, vulnerabilities, and performance issues, providing suggestions for improvements.
 
